@@ -13,3 +13,7 @@ Add a nav bar
 # HEADER
 
 This is some text
+
+## Content
+
+content
